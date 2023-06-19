@@ -1,0 +1,10 @@
+.fs1{
+    background-color: white;
+    color: black;
+    width: 1500;
+    height: 100vh;
+}
+
+li{
+    word-wrap: break-word;
+}

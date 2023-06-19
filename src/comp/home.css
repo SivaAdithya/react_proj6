@@ -1,0 +1,20 @@
+body{
+    background-image: url("back_gif1.gif");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+.cl1{
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    color:white;
+    font-family: monospace;
+    
+}
+
+.cl2{
+    font-size: 50px;
+}
+

@@ -1,0 +1,19 @@
+.about_cl1{
+    color:rgb(6, 0, 38);
+    margin-left: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    word-wrap: break-word;
+    background-color: rgb(224, 235, 125);
+    position: absolute;
+    top:85%;
+}
+
+.img1{
+    max-width: 300px;
+    margin-left: 20px;
+    padding-bottom: 30px;
+    position: absolute;
+    top:40%;
+    
+    height: 300px;
+}
